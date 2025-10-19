@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Mingrui Jing
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Mingrui
+last_name: Jing
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,147 +23,142 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ph.D. Student @ HKUST(GZ)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: AI Thrust, Information Hub
+    url: https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mingruij0031@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://github.com/Dragon-John
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=6oDFEK0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-6437-9852
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Quantum Machine Learning
+  - Quantum Information Theory
+  - Many-body Physics
+  - AI4Sci
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Ph.D. of Artificial Intelligence
+    institution: The Hong Kong University of Science and Technology
+    date_start: 2023-08-26
+    date_end: ----
+    # summary: |
+    #   Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  - area: MSc. of Physics
+    institution: University of Melbourne
+    date_start: 2020-03-01
+    date_end: 2021-12-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      GPA: 85.4/100
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
+  - area: Bachelor of Sci.
+    institution: University of Melbourne
+    date_start: 2016-03-01
     date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      GPA: 83.3/100
+
+      Major in Mathematical Physics.
+
+work:
+  - position: Intership Researcher
+    company_name: Baidu
+    company_url: 'https://ir.baidu.com/'
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: ''
+    summary: |2-
+      Join research on Quantum machine learning, trainability of quantum neural networks and quantum information theory.
+  - position: Victorian Certificate of Education (VCE) Tutor
+    company_name: Le-Learning Institution
+    # company_url: 'https://openai.com/'
+    company_logo: ''
+    date_start: 2018-06-30
+    date_end: 2020-06-30
+    summary: |
+      Worked on tutoring year 11, 12 VCE students at Melbourne.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Python & PyTorch & Matlab & Mathematica
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: code-bracket
+      - name: Bilibili x Zoom live streaming
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 85
+        icon: social
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking in the Rockies
+  #       description: ''
+  #       percent: 80
+  #       icon: person-simple-walk
+  #     - name: Building Custom PCs
+  #       description: ''
+  #       percent: 90
+  #       icon: cpu-chip
+  #     - name: Sci-Fi Reading
+  #       description: ''
+  #       percent: 70
+  #       icon: book-open
 
 languages:
   - name: English
+    percent: 70
+  - name: Mandarin
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: QTML 2025 accepted paper
+    url: https://qtml2025.cqt.sg/
+    date: '2025-11-16'
+    awarder: QTML conference
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Accepted paper as a short talk.
+  - title: Melbourne Research Scholarship
+    # url: https://www.nsf.gov/
+    date: '2022-02-15'
+    awarder: University of Melbourne
     icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+    # summary: |
+    #   $500,000 grant for research in ethical AI development.
+  - title: Science Graduate Scholarship
+    url: https://www.unmelb.edu/
+    date: '2020-03-01'
+    awarder: University of Melbourne
     icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+    # summary: |
+    #   Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Mingrui Jing is a current Ph.D. student @ Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou), advised by Professor Wang Xin. From 2022 to 2023, he served as a Research Intern specializing in Quantum Machine Learning at the Baidu Quantum Institute. He obtained his Master’s degree in Physics from the University of Melbourne, Australia, in 2021. He received his Bachelor’s degree in Physics and Mathematics from the University of Melbourne in 2019. His main research interests include Quantum Computing, Quantum Neural Network design, and their interdisciplinary applications in many-body physics and computer science.
