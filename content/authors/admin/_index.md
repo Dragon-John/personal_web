@@ -58,11 +58,11 @@ education:
     institution: The Hong Kong University of Science and Technology
     date_start: 2023-08-26
     date_end: ----
-    # summary: |
-    #   Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com/thesis.pdf'
+    summary: |
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com/thesis.pdf'
   - area: MSc. of Physics
     institution: University of Melbourne
     date_start: 2020-03-01
@@ -110,22 +110,22 @@ skills:
         description: ''
         percent: 85
         icon: social
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking in the Rockies
-  #       description: ''
-  #       percent: 80
-  #       icon: person-simple-walk
-  #     - name: Building Custom PCs
-  #       description: ''
-  #       percent: 90
-  #       icon: cpu-chip
-  #     - name: Sci-Fi Reading
-  #       description: ''
-  #       percent: 70
-  #       icon: book-open
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking in the Rockies
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Building Custom PCs
+        description: ''
+        percent: 90
+        icon: cpu-chip
+      - name: Sci-Fi Reading
+        description: ''
+        percent: 70
+        icon: book-open
 
 languages:
   - name: English
